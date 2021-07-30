@@ -870,7 +870,6 @@
 /memcheck/tests/exitprog
 /memcheck/tests/file_locking
 /memcheck/tests/filter_leak_check_size
-/memcheck/tests/filter_stderr
 /memcheck/tests/fprw
 /memcheck/tests/fwrite
 /memcheck/tests/hello
